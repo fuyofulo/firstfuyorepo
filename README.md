@@ -1,4 +1,4 @@
 # firstfuyorepo
 Learning git and github.
 <br>
-Author - Zaid Khan
+Author - Zaid Khan / fuyofulo
